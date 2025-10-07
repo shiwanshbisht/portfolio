@@ -1,0 +1,41 @@
+.p{
+    background-color: #e8a87c
+    ;
+    color : #fff;
+    display: flex;
+}
+.pLeft{
+    flex : 1;
+    padding : 20px;
+}
+.pRight{
+    flex: 1;
+    gap: 10px;
+}
+.r1{
+    display : flex;
+
+}
+.pcont{
+    padding : 40px;
+    display: flex;
+    gap : 10px;
+    flex-wrap: wrap;
+}
+.r1 div {
+    display: flex;
+    height: 130px;
+    width: 180px;
+    background-color: #132633;
+    color: #ff4800;
+    gap: 20px;
+    text-align: center;
+    border-radius: 10px;
+    align-items: center;
+    font-size: xx-large;
+    justify-content: center;
+}
+.r1{
+    gap: 10px;
+}
+
