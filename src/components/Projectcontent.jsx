@@ -10,7 +10,7 @@ const Projectcontent = () =>{
     const projects = [
         {
           title: 'Online Food Order Website | MERN',
-          description: 'Create a dynamic MERN stack online food ordering website that seamlessly connects users with their favorite local restaurants. Empower customers to browse diverse menus, place orders, and track deliveries effortlessly. Enhance user experience with real-time updates and secure payment options, revolutionizing the way people savor their favorite meals.',
+          description: 'Create a dynamic MERN stack online food ordering website that seamlessly connects users with their favorite local restaurants.',
           image: '/Assets/Card/food.png',
           url : 'https://github.com/shiwanshbisht',
         },
@@ -22,9 +22,9 @@ const Projectcontent = () =>{
           url : 'https://github.com/shiwanshbisht'
         },
         {
-          title: 'Neat & Clean | MERN',
-          description: 'Create a dynamic, user-friendly MERN stack website that connects users with household services such as cleaning and mopping. Allow customers to easily browse a variety of services and book assistance seamlessly. Enhance the user experience with real-time updates and secure payment options, revolutionizing the way people manage their household tasks with convenience and comfort.',
-          image: '/Assets/Card/clean.png',
+          title: 'Weather React App',
+          description: 'Create a dynamic, user-friendly website that shows current weather condition of the given location.',
+          image: '/Assets/Card/weather.png',
           url : 'https://github.com/shiwanshbisht'
         },
         
