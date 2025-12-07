@@ -106,7 +106,7 @@ const Resume = () => {
           </div>
 
           <a
-            href="https://drive.google.com/file/d/1x3Z4G6XWt1SAJRq__Lew7NPg7DciQSvE/view?usp=sharing"
+            href="https://drive.google.com/file/d/1lm4Fe_Ue1to3tSH3US8F-2MDLSgU6QSY/view?usp=sharing"
             download="Shiwansh_Singh_Bisht_Resume.pdf"
           >
             <button className="relative inline-flex items-center justify-center px-8 py-3 mt-10 text-base font-semibold text-white bg-black rounded hover:shadow-lg hover:scale-105 transition-transform duration-300">
